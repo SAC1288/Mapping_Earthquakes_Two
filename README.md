@@ -1,1 +1,2 @@
-# Mapping_Earthquakes_Two
+# Mapping_Earthquakes
+Using javascript, leaflet, and D3 to provide visaul representations of earthquake frequencies around the globe. The interactive map created for the challenge allows the user to toggle among three different types of maps: street, satellite, and dark. In addition, the user can toggle through different data layers: all earthquake data, tectonic plates, and/or major earthquakes. 
